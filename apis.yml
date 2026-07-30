@@ -1,8 +1,27 @@
 aid: livspace
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/livspace.png
 name: Livspace
-description: 'Livspace is a company surfaced as a portfolio company of bessemer-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  Livspace is India's largest home interior design and renovation company, founded in 2014 and
+  headquartered in Bangalore. It runs an end-to-end, technology-driven interiors platform: free
+  design consultation, in-browser 3D visualisation, factory-made modular products (kitchens,
+  wardrobes, storage), and managed on-site installation, backed by a lifetime warranty on modular
+  products. Livspace serves 125+ cities across India through 100+ Experience Centres and a network
+  of interior designers, covering full-home interiors, modular kitchens, false ceilings, flooring,
+  painting and related fit-out services. It is a Bessemer Venture Partners portfolio company. This
+  profile currently exposes no public developer API or SDK surface; enrichment captured its public
+  security, well-known, and llms.txt surfaces.
 url: https://raw.githubusercontent.com/api-evangelist/livspace/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +31,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Consumer
+- Interior Design
+- Home Renovation
+- Home Improvement
+- Modular Kitchens
+- Home Services
+- India
+- E-commerce
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +51,26 @@ maintainers:
 common:
 - type: Website
   url: https://www.livspace.com/
+- type: Blog
+  url: https://www.livspace.com/in/magazine
+- type: Support
+  url: https://www.livspace.com/in/contact-us
+- type: PrivacyPolicy
+  url: https://www.livspace.com/in/interiors/privacy
+- type: SecurityTxt
+  url: well-known/livspace-security.txt
+- type: WellKnown
+  url: well-known/livspace-well-known.yml
+- type: VulnerabilityDisclosure
+  url: security/livspace-vulnerability-disclosure.yml
+- type: Security
+  url: https://www.livspace.com/responsible-disclosure-program
+- type: DomainSecurity
+  url: security/livspace-domain-security.yml
+- type: LLMsTxt
+  url: llms/livspace-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1
