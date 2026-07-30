@@ -1,0 +1,247 @@
+# Livspace
+
+> India's largest home interior design and renovation company. Founded 2014.
+> Serves 125+ cities across India. End-to-end service: free design consultation
+> → 3D visualisation → factory-made modular products → on-site installation.
+> Lifetime warranty on modular products. 100+ Experience Centres for in-person consultation.
+> Minimum project budget: ₹3.62 lakhs. Modular kitchen starting at ₹1.7 lakhs.
+
+## City Pages
+
+All 125+ cities Livspace serves across India. Each page covers local pricing, designer team, completed projects, and nearest Experience Centre.
+
+- [Agra](https://www.livspace.com/in/interiors/agra)
+- [Ahilyanagar](https://www.livspace.com/in/interiors/ahilyanagar)
+- [Ahmedabad](https://www.livspace.com/in/interiors/ahmedabad)
+- [Aizawl](https://www.livspace.com/in/interiors/aizawl)
+- [Aligarh](https://www.livspace.com/in/interiors/aligarh)
+- [Amritsar](https://www.livspace.com/in/interiors/amritsar)
+- [Asansol](https://www.livspace.com/in/interiors/asansol)
+- [Aurangabad](https://www.livspace.com/in/interiors/aurangabad)
+- [Ayodhya](https://www.livspace.com/in/interiors/ayodhya)
+- [Banswara](https://www.livspace.com/in/interiors/banswara)
+- [Baramulla](https://www.livspace.com/in/interiors/baramulla)
+- [Bareilly](https://www.livspace.com/in/interiors/bareilly)
+- [Bathinda](https://www.livspace.com/in/interiors/bathinda)
+- [Belagavi](https://www.livspace.com/in/interiors/belagavi)
+- [Bengaluru](https://www.livspace.com/in/interiors/bengaluru)
+- [Bhopal](https://www.livspace.com/in/interiors/bhopal)
+- [Bhubaneswar](https://www.livspace.com/in/interiors/bhubaneswar)
+- [Bikaner](https://www.livspace.com/in/interiors/bikaner)
+- [Bilaspur](https://www.livspace.com/in/interiors/bilaspur)
+- [Chandigarh](https://www.livspace.com/in/interiors/chandigarh)
+- [Chandrapur](https://www.livspace.com/in/interiors/chandrapur)
+- [Chennai](https://www.livspace.com/in/interiors/chennai)
+- [Chikkamagaluru](https://www.livspace.com/in/interiors/chikkamagaluru)
+- [Coimbatore](https://www.livspace.com/in/interiors/coimbatore)
+- [Davanagere](https://www.livspace.com/in/interiors/davanagere)
+- [Dehradun](https://www.livspace.com/in/interiors/dehradun)
+- [Delhi](https://www.livspace.com/in/interiors/delhi)
+- [Dibrugarh](https://www.livspace.com/in/interiors/dibrugarh)
+- [Durg](https://www.livspace.com/in/interiors/durg)
+- [Erode](https://www.livspace.com/in/interiors/erode)
+- [Faridabad](https://www.livspace.com/in/interiors/faridabad)
+- [Gandhinagar](https://www.livspace.com/in/interiors/gandhinagar)
+- [Gaya](https://www.livspace.com/in/interiors/gaya)
+- [Ghaziabad](https://www.livspace.com/in/interiors/ghaziabad)
+- [Ghumarwin](https://www.livspace.com/in/interiors/ghumarwin)
+- [Goa](https://www.livspace.com/in/interiors/goa)
+- [Godhra](https://www.livspace.com/in/interiors/godhra)
+- [Gorakhpur](https://www.livspace.com/in/interiors/gorakhpur)
+- [Guntur](https://www.livspace.com/in/interiors/guntur)
+- [Gurugram](https://www.livspace.com/in/interiors/gurugram)
+- [Guwahati](https://www.livspace.com/in/interiors/guwahati)
+- [Gwalior](https://www.livspace.com/in/interiors/gwalior)
+- [Hamirpur](https://www.livspace.com/in/interiors/hamirpur)
+- [Hosapete](https://www.livspace.com/in/interiors/hosapete)
+- [Hubli](https://www.livspace.com/in/interiors/hubli)
+- [Hyderabad](https://www.livspace.com/in/interiors/hyderabad)
+- [Indore](https://www.livspace.com/in/interiors/indore)
+- [Jabalpur](https://www.livspace.com/in/interiors/jabalpur)
+- [Jagdalpur](https://www.livspace.com/in/interiors/jagdalpur)
+- [Jaipur](https://www.livspace.com/in/interiors/jaipur)
+- [Jalandhar](https://www.livspace.com/in/interiors/jalandhar)
+- [Jalgaon](https://www.livspace.com/in/interiors/jalgaon)
+- [Jammu](https://www.livspace.com/in/interiors/jammu)
+- [Jigani](https://www.livspace.com/in/interiors/jigani)
+- [Jodhpur](https://www.livspace.com/in/interiors/jodhpur)
+- [Kadapa](https://www.livspace.com/in/interiors/kadapa)
+- [Kakinada](https://www.livspace.com/in/interiors/kakinada)
+- [Kangra](https://www.livspace.com/in/interiors/kangra)
+- [Kanpur](https://www.livspace.com/in/interiors/kanpur)
+- [Karimnagar](https://www.livspace.com/in/interiors/karimnagar)
+- [Karur](https://www.livspace.com/in/interiors/karur)
+- [Khammam](https://www.livspace.com/in/interiors/khammam)
+- [Kochi](https://www.livspace.com/in/interiors/kochi)
+- [Kolhapur](https://www.livspace.com/in/interiors/kolhapur)
+- [Kolkata](https://www.livspace.com/in/interiors/kolkata)
+- [Kottayam](https://www.livspace.com/in/interiors/kottayam)
+- [Kozhikode](https://www.livspace.com/in/interiors/kozhikode)
+- [Latur](https://www.livspace.com/in/interiors/latur)
+- [Lucknow](https://www.livspace.com/in/interiors/lucknow)
+- [Ludhiana](https://www.livspace.com/in/interiors/ludhiana)
+- [Madurai](https://www.livspace.com/in/interiors/madurai)
+- [Mandi](https://www.livspace.com/in/interiors/mandi)
+- [Mangalore](https://www.livspace.com/in/interiors/mangalore)
+- [Mansoorabad](https://www.livspace.com/in/interiors/mansoorabad)
+- [Meerut](https://www.livspace.com/in/interiors/meerut)
+- [Mehsana](https://www.livspace.com/in/interiors/mehsana)
+- [Moradabad](https://www.livspace.com/in/interiors/moradabad)
+- [Mumbai](https://www.livspace.com/in/interiors/mumbai)
+- [Muzaffarpur](https://www.livspace.com/in/interiors/muzaffarpur)
+- [Mysore](https://www.livspace.com/in/interiors/mysore)
+- [Nagercoil](https://www.livspace.com/in/interiors/nagercoil)
+- [Nagpur](https://www.livspace.com/in/interiors/nagpur)
+- [Nashik](https://www.livspace.com/in/interiors/nashik)
+- [Navi Mumbai](https://www.livspace.com/in/interiors/navi-mumbai)
+- [Nawanshahr](https://www.livspace.com/in/interiors/nawanshahr)
+- [NCR](https://www.livspace.com/in/interiors/ncr)
+- [Neemuch](https://www.livspace.com/in/interiors/neemuch)
+- [Nizamabad](https://www.livspace.com/in/interiors/nizamabad)
+- [Noida](https://www.livspace.com/in/interiors/noida)
+- [Ongole](https://www.livspace.com/in/interiors/ongole)
+- [Patiala](https://www.livspace.com/in/interiors/patiala)
+- [Patna](https://www.livspace.com/in/interiors/patna)
+- [Pitampura](https://www.livspace.com/in/interiors/pitampura)
+- [Pondicherry](https://www.livspace.com/in/interiors/pondicherry)
+- [Prayagraj](https://www.livspace.com/in/interiors/prayagraj)
+- [Pune](https://www.livspace.com/in/interiors/pune)
+- [Raebareli](https://www.livspace.com/in/interiors/raebareli)
+- [Raipur](https://www.livspace.com/in/interiors/raipur)
+- [Rajahmundry](https://www.livspace.com/in/interiors/rajahmundry)
+- [Rajkot](https://www.livspace.com/in/interiors/rajkot)
+- [Ranchi](https://www.livspace.com/in/interiors/ranchi)
+- [Rewa](https://www.livspace.com/in/interiors/rewa)
+- [Rewari](https://www.livspace.com/in/interiors/rewari)
+- [Rudrapur](https://www.livspace.com/in/interiors/rudrapur)
+- [Salem](https://www.livspace.com/in/interiors/salem)
+- [Sangareddy](https://www.livspace.com/in/interiors/sangareddy)
+- [Sangli](https://www.livspace.com/in/interiors/sangli)
+- [Satara](https://www.livspace.com/in/interiors/satara)
+- [Secunderabad](https://www.livspace.com/in/interiors/secunderabad)
+- [Shivamogga](https://www.livspace.com/in/interiors/shivamogga)
+- [Siliguri](https://www.livspace.com/in/interiors/siliguri)
+- [Singrauli](https://www.livspace.com/in/interiors/singrauli)
+- [Sivakasi](https://www.livspace.com/in/interiors/sivakasi)
+- [Solapur](https://www.livspace.com/in/interiors/solapur)
+- [Srikakulam](https://www.livspace.com/in/interiors/srikakulam)
+- [Srinagar](https://www.livspace.com/in/interiors/srinagar)
+- [Surat](https://www.livspace.com/in/interiors/surat)
+- [Thane](https://www.livspace.com/in/interiors/thane)
+- [Thiruvananthapuram](https://www.livspace.com/in/interiors/thiruvananthapuram)
+- [Thrissur](https://www.livspace.com/in/interiors/thrissur)
+- [Tiruchirappalli](https://www.livspace.com/in/interiors/tiruchirappalli)
+- [Tirunelveli](https://www.livspace.com/in/interiors/tirunelveli)
+- [Tirupati](https://www.livspace.com/in/interiors/tirupati)
+- [Trivandrum](https://www.livspace.com/in/interiors/trivandrum)
+- [Tumkuru](https://www.livspace.com/in/interiors/tumkuru)
+- [Udupi](https://www.livspace.com/in/interiors/udupi)
+- [Ujjain](https://www.livspace.com/in/interiors/ujjain)
+- [Vadodara](https://www.livspace.com/in/interiors/vadodara)
+- [Varanasi](https://www.livspace.com/in/interiors/varanasi)
+- [Vellore](https://www.livspace.com/in/interiors/vellore)
+- [Vijayapur](https://www.livspace.com/in/interiors/vijayapur)
+- [Vijayawada](https://www.livspace.com/in/interiors/vijayawada)
+- [Visakhapatnam](https://www.livspace.com/in/interiors/visakhapatnam)
+- [Vizag](https://www.livspace.com/in/interiors/vizag)
+- [Warangal](https://www.livspace.com/in/interiors/warangal)
+
+For hyperlocal Experience Centre pages (locality level), see llms-full.txt or the HTML sitemap at https://www.livspace.com/in/interiors/locations-sitemap
+
+## Interactive Pricing Calculators
+
+- [Home Interior Price Calculator](https://www.livspace.com/in/interiors/home-interior-price-calculator): Instant estimate based on BHK type, scope, and city.
+- [Modular Kitchen Price Calculator](https://www.livspace.com/in/interiors/kitchen-price-calculator): Estimate based on size, finish level, and accessories.
+- [Modular Wardrobe Price Calculator](https://www.livspace.com/in/interiors/wardrobe-price-calculator): Estimate based on dimensions, type (sliding/hinged), and internal fittings.
+
+## Pricing & Cost Guides
+
+- [Modular Kitchen Cost](https://www.livspace.com/in/magazine/modular-kitchen-cost): Starting at ₹1.7 lakhs. Detailed breakdown by layout and accessories.
+- [False Ceiling Cost](https://www.livspace.com/in/magazine/false-ceiling-cost): POP, gypsum, and PVC cost comparisons.
+
+## Design Ideas
+
+- [Design Ideas Hub](https://www.livspace.com/in/design-ideas): Browse by room, style, and budget.
+- [Kitchen Designs](https://www.livspace.com/in/design-ideas/kitchen-designs): Layouts, materials, modular kitchen ideas.
+- [Bedroom Designs](https://www.livspace.com/in/design-ideas/bedrooms): Master, guest, kids bedroom ideas.
+- [Living Room Designs](https://www.livspace.com/in/design-ideas/living-rooms): TV units, sofas, false ceilings, lighting.
+- [Bathroom Designs](https://www.livspace.com/in/design-ideas/bathroom): Full renovation, tiles, fixtures.
+- [Kids Room Designs](https://www.livspace.com/in/design-ideas/kids-room): Safe, functional, themed.
+- [Pooja Room Designs](https://www.livspace.com/in/design-ideas/pooja-room): Modular and traditional.
+- [Wardrobe Designs](https://www.livspace.com/in/design-ideas/wardrobe-designs): Sliding, hinged, walk-in.
+- [False Ceiling Designs](https://www.livspace.com/in/design-ideas/false-ceiling-designs): POP, gypsum, PVC.
+- [TV Unit Designs](https://www.livspace.com/in/design-ideas/tv-unit-designs): Wall-mounted, freestanding, with storage.
+- [Dining Room Designs](https://www.livspace.com/in/design-ideas/dining-room): Tables, seating, storage.
+- [Home Office Designs](https://www.livspace.com/in/design-ideas/home-office): Workstation, storage, ergonomics.
+- [Study Room Designs](https://www.livspace.com/in/design-ideas/study-room-designs): Kids, teens, professional.
+- [Foyer Room Designs](https://www.livspace.com/in/design-ideas/foyer-room): Entry storage, seating.
+- [Balcony Designs](https://www.livspace.com/in/design-ideas/balcony): Outdoor seating, planters, lighting.
+- [Guest Bedroom Designs](https://www.livspace.com/in/design-ideas/guest-bedroom): Compact, multifunctional.
+- [Space Saving Designs](https://www.livspace.com/in/design-ideas/space-saving-designs): Smart storage and compact layouts.
+- [Home Interior Designs](https://www.livspace.com/in/design-ideas/home-interior-designs): Whole-home design inspiration.
+
+## Materials and Surfaces
+
+- [Tile Designs](https://www.livspace.com/in/design-ideas/tile-designs)
+- [Flooring Designs](https://www.livspace.com/in/design-ideas/flooring-designs)
+- [Wall Paint Designs](https://www.livspace.com/in/design-ideas/wall-paint-designs)
+- [Wall Decor Designs](https://www.livspace.com/in/design-ideas/wall-decor-designs)
+- [Window Designs](https://www.livspace.com/in/design-ideas/window-designs)
+- [Home Wallpaper Designs](https://www.livspace.com/in/design-ideas/home-wallpaper-designs)
+- [Kitchen Sinks](https://www.livspace.com/in/design-ideas/kitchen-sinks)
+- [Laminate Finishes](https://www.livspace.com/in/interiors/offerings/finishes/laminates)
+- [Acrylic Finishes](https://www.livspace.com/in/interiors/offerings/finishes/acrylic)
+- [Membrane Finishes](https://www.livspace.com/in/interiors/offerings/finishes/membrane)
+- [PU Paint Finishes](https://www.livspace.com/in/interiors/offerings/finishes/pu-paint)
+- [Glass Finishes](https://www.livspace.com/in/interiors/offerings/finishes/glass)
+
+## Core Service Pages
+
+- [Full Home Interiors — Livspace Vesta](https://www.livspace.com/in/interiors/offerings/full-home-interiors): End-to-end home design — modular furniture, civil work, false ceiling, electricals, plumbing, flooring, tiling, painting, décor.
+- [Modular Interiors — Livspace Select](https://www.livspace.com/in/interiors/offerings/modular-interiors): Kitchen, wardrobe, TV unit, storage. Factory-made with lifetime warranty. Starting at ₹3.62 lakhs.
+- [Modular Kitchen Guide](https://www.livspace.com/in/interiors/offerings/know-your-kitchen): Layouts, materials, accessories, finishes. Starting at ₹1.7 lakhs.
+- [Modular Wardrobe Guide](https://www.livspace.com/in/interiors/offerings/know-your-wardrobe): Sliding and hinged. Internal fittings, finishes.
+- [Custom Modular Kitchens](https://www.livspace.com/in/interiors/custom-modular-kitchens): Bespoke kitchen designs for specific layouts.
+- [Custom Modular Wardrobes](https://www.livspace.com/in/interiors/custom-modular-wardrobes): Bespoke wardrobe configurations.
+- [Hire an Interior Designer](https://www.livspace.com/in/interiors/hire-a-designer): Free consultation. Online or in-person at an Experience Centre.
+- [Interior Designer Near Me](https://www.livspace.com/in/interior-designer-near-me): Find your nearest Livspace Experience Centre.
+- [How Livspace Works](https://www.livspace.com/in/interiors/how-it-works): The 4-step process from consultation to handover.
+- [The Modular Journey](https://www.livspace.com/in/interiors/the-modular-journey): Full lifecycle of a Livspace modular project.
+- [Quality](https://www.livspace.com/in/interiors/quality): 146 quality checks, materials standards, build process.
+
+## Design Inspiration
+
+- [Livspace Magazine](https://www.livspace.com/in/magazine): Expert articles on interior design, materials, and pricing.
+- [Livspace TV](https://www.livspace.com/in/livspace-tv-videos): Video walkthroughs of completed homes.
+- [Portfolio](https://www.livspace.com/in/livspace-portfolio): Real completed homes, filterable by city, BHK, style.
+- [Delivered Projects](https://www.livspace.com/in/livspace-portfolio/delivered-projects): Fully delivered Livspace homes.
+- [Concept Projects](https://www.livspace.com/in/livspace-portfolio/conceptulized-projects): Design concepts and 3D visualisations.
+
+## Process and Policies
+
+- [Service Overview](https://www.livspace.com/in/interiors/service): The Livspace service guarantee.
+- [Getting Started](https://www.livspace.com/in/interiors/service/service-getting-started): How to start a project.
+- [Design Phase](https://www.livspace.com/in/interiors/service/service-designing-my-dream-home): Design phase walkthrough.
+- [Quality Promise](https://www.livspace.com/in/interiors/service/service-livspace-quality-promise): 146 quality checks, materials, build standards.
+- [Payments](https://www.livspace.com/in/interiors/service/service-payments): Payment milestones and terms.
+- [EMI Options](https://www.livspace.com/in/interiors/service/service-emi): Financing options.
+- [Cancellations](https://www.livspace.com/in/interiors/service/service-cancellations): Refund window and process.
+- [Returns and Refunds](https://www.livspace.com/in/interiors/service/service-return-exchange-refunds): Post-installation policy.
+- [Care Instructions](https://www.livspace.com/in/interiors/service/service-care-instructions): Product maintenance guidance.
+
+## Brand and Trust
+
+- [About Livspace](https://www.livspace.com/in/about-us): Company background, mission, leadership.
+- [Customer Reviews](https://www.livspace.com/in/page/livspace-reviews): Verified customer testimonials.
+- [Awards](https://www.livspace.com/in/interiors/awards): Industry recognition.
+- [Company News](https://www.livspace.com/in/interiors/press/company-news): Press coverage and announcements.
+- [Contact Us](https://www.livspace.com/in/contact-us): Reach out by city, email, or phone.
+
+## Programmes
+
+- [Livpreneur — Design Partner Programme](https://www.livspace.com/in/interiors/livpreneur): For independent interior designers.
+
+## Sitemaps
+
+- [XML Sitemap Index](https://www.livspace.com/in/sitemapIndex.xml): Machine-readable entry point for all Livspace sitemaps.
+- [HTML Sitemap — Locations](https://www.livspace.com/in/interiors/locations-sitemap): All city and Experience Centre pages.

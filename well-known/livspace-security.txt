@@ -1,0 +1,4 @@
+Canonical: https://www.livspace.com/.well-known/security.txt
+Contact: mailto:security@livspace.com
+Expires: 2028-01-01T12:00:00Z
+Policy: https://www.livspace.com/responsible-disclosure-program
